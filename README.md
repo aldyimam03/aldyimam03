@@ -9,9 +9,11 @@ I am an 8th-semester student at <strong>Brawijaya University</strong>, majoring 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldyimam03&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aldyimam03&theme=ocean_dark&hide_border=false" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aldyimam03&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Thropies" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aldyimam03&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aldyimam03&theme=ocean_dark&hide_border=false" alt="GitHub Streak" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aldyimam03&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="98%"/>
 </p>
 
 ## 🌐 Socials:
