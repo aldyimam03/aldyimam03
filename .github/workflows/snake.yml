@@ -16,11 +16,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          outputs: github-contribution-grid-snake.svg
+          theme: default # Gunakan warna default GitHub
+          pixel_size: 10 # Membuat kotak lebih kecil
 
       - name: Commit & Push
-        uses: EndBug/add-and-commit@v9
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          message: "Generate Snake Animation"
-          add: "dist/github-snake.svg"
-          push: true
+          commit_message: "Update Snake Animation"
+          branch: output
