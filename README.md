@@ -17,6 +17,10 @@ I am an 8th-semester student at <strong>Brawijaya University</strong>, majoring 
   <img src="https://github-profile-trophy.vercel.app/?username=aldyimam03&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Thropies" width="98%"/>
 </p>
 
+## 🐍 My Contributions:
+![GitHub Snake](https://raw.githubusercontent.com/aldyimam03/aldyimam03/output/github-snake.svg)
+
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aldywijaya4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aiw_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldyimamwijaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aldyimam03@gmail.com)   
 
