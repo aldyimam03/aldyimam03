@@ -7,9 +7,6 @@ I am an 8th-semester student at **Brawijaya University**, majoring in **Informat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aldyimam03&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false) <span> ![](https://nirzak-streak-stats.vercel.app/?user=aldyimam03&theme=ocean_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyimam03&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aldyimam03&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
