@@ -17,7 +17,6 @@ I am an 8th-semester student at <strong>Brawijaya University</strong>, majoring 
   <img src="https://github-profile-trophy.vercel.app/?username=aldyimam03&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Thropies" width="98%"/>
 </p>
 
-## 🐍 My Contributions: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldyimam03/aldyimam03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldyimam03/aldyimam03/output/github-snake.svg" />
