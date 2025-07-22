@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Aldy Imam Wijaya!
 
 <p align="justify">
-I am an 8th-semester student at <strong>Brawijaya University</strong>, majoring in <strong>Information Technology</strong>. I am passionate about <strong>backend development</strong>, but I also have experience in <strong>mobile app development</strong>. Currently, I am doing an <strong>internship at PT Griya Telko Nusantara</strong> as an <strong>IT Documentation</strong>.
+I am a fresh graduate from <strong>Brawijaya University</strong>, majoring in <strong>Information Technology</strong>. I have a strong passion for <strong>backend development</strong>, especially using <strong>PHP and Laravel</strong>. I also have experience in <strong>mobile app development</strong>. Previously, I completed an <strong>internship at PT Griya Telko Nusantara</strong> as an <strong>IT Documentation staff</strong>.
 </p>
 
 # 💻 Tech Stack:
